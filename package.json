@@ -1,6 +1,6 @@
 {
   "name": "component-filter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Filters for component build",
   "main": "index.js",
   "repository": {
